@@ -8,7 +8,7 @@ export const SEED_PROGRAMS: Program[] = [
     description: 'Designed for professional athletes focusing on speed, agility, and explosive power.',
     category: 'Athletic Training',
     price: '₹15,000/mo',
-    image: 'https://images.unsplash.com/photo-1517931182867-507c2c317505?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1599058917212-d750089bc07e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     isEnabled: true,
   },
   {
